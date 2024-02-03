@@ -1,4 +1,4 @@
-name: Setup FFmpeg
+name: Setup FFmpeg (Shared linking preview)
 description: 'Download, cache and add to PATH ffmpeg and ffprobe binaries.'
 author: Federico Carboni
 inputs:
